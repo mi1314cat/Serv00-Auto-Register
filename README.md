@@ -1,7 +1,7 @@
 # Serv00-Auto-Register
 ----
 ```
-git clone https://github.com/239144498/Serv00-Auto-Register.git
+git clone https://github.com/mi1314cat/Serv00-Auto-Register.git
 ```
 ```
 pip install --break-system-packages -r requirements.txt
