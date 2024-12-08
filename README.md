@@ -1,6 +1,8 @@
 # Serv00-Auto-Register
 ----
-
+'''
+git clone https://github.com/239144498/Serv00-Auto-Register.git
+'''
 > 这是一个用来注册serv00的工具，它可以让你注册账号变得更容易通过。
 
 # 注册机免责声明
